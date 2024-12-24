@@ -44,7 +44,7 @@ The first flip-flop (LSB) toggles on every clock pulse, and subsequent flip-flop
 ![DE ex12 code](https://github.com/user-attachments/assets/e7834987-13c6-4db4-8824-147e9507a567)
 
 
- Developed by:Rajashri I RegisterNumber:24900207
+ 
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
